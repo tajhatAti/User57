@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Limiter</string>
+    <string name="accessibility_service_description">App ব্যবহারের সময় দেখে সময়সীমা পার হলে সেই App বন্ধ করে হোম স্ক্রিনে নিয়ে যায়।</string>
+    <string name="grant_usage_access">Usage Access অনুমতি দিন</string>
+    <string name="grant_accessibility">Accessibility Service চালু করুন</string>
+    <string name="set_limit">সময়সীমা সেট করুন</string>
+    <string name="no_limit">কোনো লিমিট নেই</string>
+    <string name="minutes_suffix">মিনিট</string>
+    <string name="time_up_title">সময় শেষ!</string>
+    <string name="time_up_message">আজকের জন্য এই App-এর ব্যবহারের সময় শেষ হয়ে গেছে।</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="cancel">বাতিল</string>
+    <string name="save">সংরক্ষণ করুন</string>
+    <string name="remove_limit">লিমিট সরিয়ে দিন</string>
+</resources>
