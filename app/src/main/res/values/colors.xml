@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ios_blue">#0A84FF</color>
+    <color name="ios_red">#FF453A</color>
+    <color name="ios_green">#32D74B</color>
+    <color name="bg_gradient_start">#1C1C3A</color>
+    <color name="bg_gradient_end">#3A1C55</color>
+    <color name="glass_fill">#33FFFFFF</color>
+    <color name="glass_border">#59FFFFFF</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+</resources>
