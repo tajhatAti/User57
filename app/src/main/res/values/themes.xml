@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppLimiter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ios_blue</item>
+        <item name="colorPrimaryDark">@color/bg_gradient_start</item>
+        <item name="colorAccent">@color/ios_blue</item>
+        <item name="android:windowBackground">@drawable/bg_gradient</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
